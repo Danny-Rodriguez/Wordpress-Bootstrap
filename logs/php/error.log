@@ -1,1 +1,2 @@
 [02-Mar-2023 05:23:23 UTC] PHP Notice:  fwrite(): Send of 236 bytes failed with errno=32 Broken pipe in /Users/danny/.vscode/extensions/zobo.php-intellisense-1.1.2/vendor/felixfbecker/language-server/src/StderrLogger.php on line 23
+[02-Mar-2023 06:21:22 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/danny/work/Wordpress/awesome-bootstrap/app/public/wp-includes/class-wp-customize-widgets.php on line 900
