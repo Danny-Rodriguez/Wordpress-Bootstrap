@@ -14,9 +14,9 @@
     <div class="copyright text-center">
       <p>&copy; Copyright Brightside Studios Inc.</p>
     </div>
-  </footer>
+</footer>
 
- <?php wp_footer(); ?>
+  <?php wp_footer();?>
 </body>
 
 </html>
